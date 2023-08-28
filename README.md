@@ -15,7 +15,9 @@ The initial exploration of the 3 datasets and considerations for preprocessing w
 
 Data visualization for the 3 malaria datasets can be found in their respective files:
 
-- python implementation: [`Python_2_EDA_visualisation.ipynb`](analysis/Python_2_EDA_visualisation.ipynb)
+- python implementation: [`Python_2_EDA_visualisation.ipynb`](analysis/Python_2_EDA_visualisation.ipynb)  
+  - Visualization can also be viewed through a [Dash app run on the local machine](https://github.com/py3lee/malariaapp/blob/main/app.py) 
+
 - R implementation: [`RMarkdown_2_EDA_malaria.Rmd`](analysis/RMarkdown_2_EDA_malaria.Rmd), and the [rendered html](https://htmlpreview.github.io/?https://github.com/py3lee/malaria/blob/main/analysis/RMarkdown_2_EDA_malaria.html).
 
 # Primary problem statement
