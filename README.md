@@ -17,9 +17,6 @@ Data visualization for the 3 malaria datasets can be found in their respective f
 
 - python implementation: [`Python_2_EDA_visualisation.ipynb`](analysis/Python_2_EDA_visualisation.ipynb)
 - R implementation: [`RMarkdown_2_EDA_malaria.Rmd`](analysis/RMarkdown_2_EDA_malaria.Rmd), and the [rendered html](https://htmlpreview.github.io/?https://github.com/py3lee/malaria/blob/main/analysis/RMarkdown_2_EDA_malaria.html).
-- You can also visualize the number of malaria deaths across the years via this web [app](https://malariadatasets.herokuapp.com). The source code for the app is available in this [repository](https://github.com/py3lee/malariaapp). 
-
-
 
 # Primary problem statement
 
