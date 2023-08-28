@@ -10,16 +10,13 @@ The initial exploration of the 3 datasets and considerations for preprocessing w
 - The R data pipeline script for the ingestion and preprocessing steps can be found in [main.R](src/R/main.R) (`src > R > main.R`). This script uses the dependent script [`helper_functions.R`](src/R/helper_functions.R) in the `src > R` folder. 
   - Cleaning and validation of the data preprocessing steps in R can be found in the RMarkdown file [`RMarkdown_1_preprocessing_malaria.Rmd`](analysis/RMarkdown_1_preprocessing_malaria.Rmd).
 
-> Note that for both pipeline scripts, the working directory to launch the main pipeline script is the malaria folder (i.e. `projects > malaria`) of this `projects` Github repository
-
-
 
 ## Data visualization  
 
 Data visualization for the 3 malaria datasets can be found in their respective files:
 
 - python implementation: [`Python_2_EDA_visualisation.ipynb`](analysis/Python_2_EDA_visualisation.ipynb)
-- R implementation: [`RMarkdown_2_EDA_malaria.Rmd`](analysis/RMarkdown_2_EDA_malaria.Rmd), and the [rendered html](https://htmlpreview.github.io/?https://github.com/py3lee/projects/blob/main/malaria/analysis/RMarkdown_2_EDA_malaria.html).
+- R implementation: [`RMarkdown_2_EDA_malaria.Rmd`](analysis/RMarkdown_2_EDA_malaria.Rmd), and the [rendered html](https://htmlpreview.github.io/?https://github.com/py3lee/malaria/blob/main/analysis/RMarkdown_2_EDA_malaria.html).
 - You can also visualize the number of malaria deaths across the years via this web [app](https://malariadatasets.herokuapp.com). The source code for the app is available in this [repository](https://github.com/py3lee/malariaapp). 
 
 
